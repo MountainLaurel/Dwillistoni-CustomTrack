@@ -1,5 +1,0 @@
-hub DmelToDwillMatches
-shortlabel D mel vs D will
-longlabel Regions of Similarity Between D mel and D will
-genomesFile genomes.txt
-email miraay@goshen.edu
