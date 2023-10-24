@@ -1,6 +1,0 @@
-track  test1
-bigDataUrl https://github.com/MountainLaurel/Dwillistoni-CustomTrack/blob/5485f83932029fe1c270fc1dfa638bff547aa977/first_attempt/Dwill_putative_orthologs.gz
-shortLabel genPred test
-longLabel Dwill genPred track test
-type genPred
-visibility dense
