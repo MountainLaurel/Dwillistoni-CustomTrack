@@ -1,0 +1,6 @@
+track  test1
+bigDataUrl http://hgdownload.soe.ucsc.edu/goldenPath/hg19/encodeDCC/wgEncodeCshlLongRnaSeq/wgEncodeCshlLongRnaSeqA549CellLongnonpolyaMinusRawSigRep1.bigWig
+shortLabel genPred test
+longLabel Dwill genPred track test
+type genPred
+visibility dense
